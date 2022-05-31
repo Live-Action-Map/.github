@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kinshukdua/LiveActionMap">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Live-Action-Map">
+    <img src="./github/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center"> Live Action Map (LAM) </h2>
@@ -20,10 +20,10 @@
   <p align="center">
     An attempt to use open source data on Twitter to map areas with active conflict. Right now it is used for the Ukraine-Russia conflict, but in the future I hope it can be used for all sorts of dangerous situations.
     <br />
-    <a href="https://github.com/kinshukdua/LiveActionMap/issues">Report Bug</a>
+    <!-- <a href="https://github.com/kinshukdua/LiveActionMap/issues">Report Bug</a>
     ·
     <a href="https://github.com/kinshukdua/LiveActionMap/pulls">Add Feature</a>
-    ·
+    · -->
     <a href="https://live-action-map.com/">Website Live!</a>
     ·
     <a href="https://discord.gg/F8qJXSJj6S">Join Discord!</a>
@@ -61,7 +61,7 @@ There are many twitter accounts posting live tweets about locations with conflic
 
 This project is a work in progress. I am working on adding more features and improving the map.
 
-<a href="https://live-action-map.com/">![Website Link Image](./images/map.PNG)</a>
+<a href="https://live-action-map.com/">![Website Link Image](./github/images/map.PNG)</a>
 
 
 How it works:
@@ -211,4 +211,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-url]: https://github.com/kinshukdua/LiveActionMap/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dua
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ./github/images/screenshot.png
