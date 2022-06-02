@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Live-Action-Map">
-    <img src="./github/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://dev.live-action-map.com/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center"> Live Action Map (LAM) </h2>
@@ -61,7 +61,7 @@ There are many twitter accounts posting live tweets about locations with conflic
 
 This project is a work in progress. I am working on adding more features and improving the map.
 
-<a href="https://live-action-map.com/">![Website Link Image](./github/images/map.PNG)</a>
+<a href="https://live-action-map.com/">![Website Link Image](https://github.com/Live-Action-Map/OldLiveActionMap/raw/main/images/map.PNG)</a>
 
 
 How it works:
