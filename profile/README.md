@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Live-Action-Map">
-    <img src="https://dev.live-action-map.com/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/106591814?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center"> Live Action Map (LAM) </h2>
