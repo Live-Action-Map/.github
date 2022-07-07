@@ -61,7 +61,7 @@ There are many twitter accounts posting live tweets about locations with conflic
 
 This project is a work in progress. I am working on adding more features and improving the map.
 
-<a href="https://live-action-map.com/">![Website Link Image](https://dev.live-action-map.com/map.png)</a>
+<a href="https://live-action-map.com/">![Website Link Image](https://domiibunn.live/img/lam/live-action-map.png)</a>
 
 
 How it works:
